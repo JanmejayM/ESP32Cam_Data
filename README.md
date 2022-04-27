@@ -12,4 +12,5 @@ This project relates to data transfer to phone via Bluetooth. The potentiometer 
 
 # System Architecture
 
-      
+      ![Blank diagram (1)](https://user-images.githubusercontent.com/89799094/165444515-c33efe39-e40d-4854-b495-1254a72f617f.png)
+
