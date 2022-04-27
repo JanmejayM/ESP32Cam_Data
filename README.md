@@ -21,3 +21,8 @@ This project relates to data transfer to phone via Bluetooth. The potentiometer 
 # Bluetooth App
 
 ![eso](https://user-images.githubusercontent.com/89799094/165444755-c41a2bd7-da1c-410d-99a5-67b1626a891e.jpg)
+
+# Practical Implementation
+
+
+![prjimg](https://user-images.githubusercontent.com/89799094/165444842-d2a906f0-c978-480f-9546-d291552f988c.jpg)
